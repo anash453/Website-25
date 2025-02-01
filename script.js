@@ -1,4 +1,5 @@
-let menuList = document.getElementById("menuList")
+
+// https://preview.themeforest.net/item/eren-magento-2-responsive-fashion-theme/full_screen_preview/19761418?_ga=2.246191751.2052785564.1738261510-993370187.1728848196let menuList = document.getElementById("menuList")
         menuList.style.maxHeight = "0px";
 
         function toggleMenu(){
